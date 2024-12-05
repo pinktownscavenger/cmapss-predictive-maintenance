@@ -47,8 +47,6 @@ The project utilizes a Gated Recurrent Unit (GRU) model to predict the Remaining
 * Training: The model is trained on the processed and scaled data, and its performance is evaluated using Mean Squared Error (MSE).
 
 ## Installation
-To set up the environment and dependencies, follow these steps:
-
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/cmapss-predictive-maintenance.git
